@@ -1,0 +1,16 @@
+Fever,Cough,Headache,Fatigue,Body_Pain,Type_of_Flu
+High,Dry,Yes,Severe,Yes,Influenza A
+Mild,Wet,No,Mild,No,Common Cold
+High,Dry,Yes,Moderate,Yes,Influenza B
+Mild,None,No,Mild,No,Common Cold
+High,Dry,Yes,Severe,Yes,COVID-like
+Mild,Wet,Yes,Moderate,No,Influenza B
+None,None,No,Mild,No,Common Cold
+High,Dry,Yes,Severe,Yes,Influenza A
+Mild,Wet,No,Moderate,No,Common Cold
+High,Dry,Yes,Severe,Yes,COVID-like
+Mild,Dry,No,Moderate,Yes,Influenza A
+High,Wet,Yes,Severe,Yes,Influenza B
+None,None,No,Mild,No,Common Cold
+Mild,Wet,Yes,Moderate,No,Influenza B
+High,Dry,Yes,Severe,Yes,COVID-like
